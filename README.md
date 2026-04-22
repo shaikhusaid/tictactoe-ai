@@ -29,4 +29,4 @@ The goal was to build a clean interface that connects a React frontend to a Pyth
 3. Run the development server: `npm run dev`
 
 ---
-**Maintained by [Usaid Raza](https://github.com/shaikhusaid)** *Student at FAST-NUCES *
+**Maintained by [Usaid Raza](https://github.com/shaikhusaid)** **Student at FAST-NUCES **
